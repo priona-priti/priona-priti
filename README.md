@@ -5,6 +5,8 @@
 -->
 I am Priona Priti Pattanaik.
 
+https://github.com/priona-priti/priona-priti/blob/main/coding.gif
+
 **I'm doing Btech in ✨Computer Science & Engineering✨**
 
 - Currently learning and working on Web Development.
