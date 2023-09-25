@@ -3,9 +3,9 @@
 <!--
 **priona-priti/priona-priti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
- ![codegirl](https://github.com/priona-priti/priona-priti/assets/142658836/c5a2d485-b9a8-40d6-8595-0178f1d5becb)
- 
-I am Priona Priti Pattanaik.
+ ![codecode](https://github.com/priona-priti/priona-priti/assets/142658836/821ec575-5a10-4279-8a6f-b280e5bd8514)
+
+*I am Priona Priti Pattanaik*
 
 **I'm doing Btech in ✨Computer Science & Engineering✨**
 
