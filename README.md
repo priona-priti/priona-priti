@@ -5,7 +5,7 @@
 -->
 I am Priona Priti Pattanaik.
 
-https://github.com/priona-priti/priona-priti/blob/main/coding.gif
+![](https://github.com/priona-priti/coding.gif)
 
 **I'm doing Btech in ✨Computer Science & Engineering✨**
 
